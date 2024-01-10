@@ -8,6 +8,6 @@ cover: ""
 explicit: false
 episode: 2
 season: 1
-episodeType: 
+episodeType: full
 ---
 I am attempting to add new episode to see it work.
