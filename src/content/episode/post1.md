@@ -1,6 +1,6 @@
 ---
 title: Episode 1
-audioUrl: 'Pod-05-10.mp3'
+audioUrl: 'https://qa-broadstr-hub.azurewebsites.net/csvs/Pod-05-10.mp3'
 pubDate: May 13 2024
 duration: 25:32
 size: 0.7
